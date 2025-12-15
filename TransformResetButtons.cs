@@ -1,7 +1,6 @@
-/// Limitools TransformResetButtons - Creates a Scene view Overlay Toolbar with Position, Rotation, Scale resets
-/// Direction, layout design and tweaks by Daniel Nagy, code executed by Claude.ai
-/// Supports multi-select, edit "enabledButtonColor" values to style
-/// use at your own risk
+/// LimiTools TransformResetButtons - Creates a Scene view Overlay Toolbar with Position, Rotation, Scale resets
+/// Direction, layout design and tweaks by Daniel Nagy, code executed by Claude.ai 🤖
+/// Supports multi-select, edit "enabledButtonColor" values to style colors
 
 using UnityEngine;
 using UnityEditor;
@@ -296,4 +295,5 @@ public class TransformResetButtons
         Rotation,
         Scale
     }
+
 }
