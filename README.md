@@ -1,7 +1,8 @@
 # Transform Reset Buttons
 
-https://github.com/danielnagy89/LimiTools/blob/main/Demos/LimiTools_TRB.mp4
-https://github.com/user-attachments/assets/2342e78a-fb67-477d-a568-bb0215bc866c
+![Demo](https://github.com/danielnagy89/LimiTools/blob/main/Demos/LimiTools_TRB.mp4)
+[demo.gif](https://github.com/user-attachments/assets/2342e78a-fb67-477d-a568-bb0215bc866c)
+
 
 • one-click transform resets
 • multi-object support
